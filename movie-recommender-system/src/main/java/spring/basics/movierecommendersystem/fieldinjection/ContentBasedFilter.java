@@ -1,6 +1,5 @@
-package spring.basics.movierecommendersystem.lesson3;
+package spring.basics.movierecommendersystem.fieldinjection;
 
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component

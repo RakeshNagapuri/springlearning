@@ -1,6 +1,5 @@
-package spring.basics.movierecommendersystem.lesson3;
+package spring.basics.movierecommendersystem.fieldinjection;
 
-import org.apache.catalina.core.ApplicationContext;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
