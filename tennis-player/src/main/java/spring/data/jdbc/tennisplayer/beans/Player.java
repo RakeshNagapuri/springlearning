@@ -67,6 +67,7 @@ public class Player {
                 ", nationality='" + nationality + '\'' +
                 ", birthDate=" + birthDate +
                 ", titles=" + titles +
-                '}';
+                '}'+
+                "\n";
     }
 }
